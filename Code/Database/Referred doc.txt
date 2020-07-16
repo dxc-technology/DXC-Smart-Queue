@@ -1,0 +1,15 @@
+Below are the Microsoft doc link referred during creation of database, setting up firewall and connecting webapp to database.
+
+Create Azure database for PostgreSQL:
+
+https://docs.microsoft.com/en-us/azure/postgresql/quickstart-create-server-database-portal
+
+
+Firewall Setting:
+
+https://docs.microsoft.com/en-us/azure/postgresql/howto-manage-firewall-using-portal
+
+
+Connecting Webapp to database:
+
+https://docs.microsoft.com/en-us/azure/mysql/howto-connect-webapp
