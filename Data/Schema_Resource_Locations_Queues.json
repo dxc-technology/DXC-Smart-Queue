@@ -1,0 +1,456 @@
+[
+    {
+        "id": "d772b8b0-16a8-4204-bb19-8890bfd9bc84",
+        "resource_id": 8851,
+        "train_from": "GRAND CENTRAL",
+        "train_to": "POUGHKEEPSIE",
+        "max_occupancy": 100,
+        "occupancy_sensor": "dummy_sensor",
+        "updated_date": "2020-07-15",
+        "locations": [
+            {
+                "id": "7523da38-66fe-4a5a-a6a2-a3bad0151003",
+                "address": "Poughkeepsie",
+                "address_id": 51,
+                "max_capacity": 100,
+                "queues": [
+                    {
+                        "queue_id": "a8607237-d723-4047-ace3-ce5196d4c6ad",
+                        "start_datetime": "2020-07-15T20:30:00-04:00",
+                        "end_datetime": "2020-07-15T20:40:00-04:00",
+                        "max_capacity": 100,
+                        "address_id": 51,
+                        "address": "Poughkeepsie",
+                        "destination": "POUGHKEEPSIE",
+                        "resource_id": 8851
+                    }
+                ]
+            },
+            {
+                "id": "4efcae71-a6f2-4e7d-9ae3-8b6d6a30f834",
+                "address": "New Hamburg",
+                "address_id": 49,
+                "max_capacity": 100,
+                "queues": [
+                    {
+                        "queue_id": "6668e888-6f77-47ea-b891-ae4618814ad1",
+                        "start_datetime": "2020-07-15T20:14:00-04:00",
+                        "end_datetime": "2020-07-15T20:24:00-04:00",
+                        "max_capacity": 100,
+                        "address_id": 49,
+                        "address": "New Hamburg",
+                        "destination": "POUGHKEEPSIE",
+                        "resource_id": 8851
+                    }
+                ]
+            },
+            {
+                "id": "08d14edd-fa34-4845-92c8-d51524503fad",
+                "address": "Beacon",
+                "address_id": 46,
+                "max_capacity": 100,
+                "queues": [
+                    {
+                        "queue_id": "032849d4-9349-4241-a8b7-edb0123eb515",
+                        "start_datetime": "2020-07-15T20:05:00-04:00",
+                        "end_datetime": "2020-07-15T20:15:00-04:00",
+                        "max_capacity": 100,
+                        "address_id": 46,
+                        "address": "Beacon",
+                        "destination": "POUGHKEEPSIE",
+                        "resource_id": 8851
+                    }
+                ]
+            },
+            {
+                "id": "3146eb66-a96c-43aa-ad59-16f28555603a",
+                "address": "Cold Spring",
+                "address_id": 43,
+                "max_capacity": 100,
+                "queues": [
+                    {
+                        "queue_id": "b391570f-9b03-4fea-9114-b4b94142587d",
+                        "start_datetime": "2020-07-15T19:57:00-04:00",
+                        "end_datetime": "2020-07-15T20:07:00-04:00",
+                        "max_capacity": 100,
+                        "address_id": 43,
+                        "address": "Cold Spring",
+                        "destination": "POUGHKEEPSIE",
+                        "resource_id": 8851
+                    }
+                ]
+            },
+            {
+                "id": "6cf927a0-3dfb-41c1-90ae-59ab19d6f2ac",
+                "address": "Garrison",
+                "address_id": 42,
+                "max_capacity": 100,
+                "queues": [
+                    {
+                        "queue_id": "1728a65b-7bb8-49ab-ba4a-2ba29eef5f47",
+                        "start_datetime": "2020-07-15T19:53:00-04:00",
+                        "end_datetime": "2020-07-15T20:03:00-04:00",
+                        "max_capacity": 100,
+                        "address_id": 42,
+                        "address": "Garrison",
+                        "destination": "POUGHKEEPSIE",
+                        "resource_id": 8851
+                    }
+                ]
+            },
+            {
+                "id": "8083558f-d7c8-4ac0-8774-7323e6b80d3d",
+                "address": "Peekskill",
+                "address_id": 39,
+                "max_capacity": 100,
+                "queues": [
+                    {
+                        "queue_id": "57a1bf86-5308-44a8-92d7-47ba7a793fcc",
+                        "start_datetime": "2020-07-15T19:42:00-04:00",
+                        "end_datetime": "2020-07-15T19:52:00-04:00",
+                        "max_capacity": 100,
+                        "address_id": 39,
+                        "address": "Peekskill",
+                        "destination": "POUGHKEEPSIE",
+                        "resource_id": 8851
+                    }
+                ]
+            },
+            {
+                "id": "00d0fb4c-85d2-4675-ad68-59325edf71e3",
+                "address": "Cortlandt",
+                "address_id": 37,
+                "max_capacity": 100,
+                "queues": [
+                    {
+                        "queue_id": "5412cc39-b7f9-46ec-b7a8-bf62dda97568",
+                        "start_datetime": "2020-07-15T19:37:00-04:00",
+                        "end_datetime": "2020-07-15T19:47:00-04:00",
+                        "max_capacity": 100,
+                        "address_id": 37,
+                        "address": "Cortlandt",
+                        "destination": "POUGHKEEPSIE",
+                        "resource_id": 8851
+                    }
+                ]
+            },
+            {
+                "id": "22c9aed6-88c9-4d9b-95fe-fced0204a575",
+                "address": "Croton-Harmon",
+                "address_id": 33,
+                "max_capacity": 100,
+                "queues": [
+                    {
+                        "queue_id": "0f409303-ce36-4e64-8a01-92fcc951983b",
+                        "start_datetime": "2020-07-15T19:29:00-04:00",
+                        "end_datetime": "2020-07-15T19:39:00-04:00",
+                        "max_capacity": 100,
+                        "address_id": 33,
+                        "address": "Croton-Harmon",
+                        "destination": "POUGHKEEPSIE",
+                        "resource_id": 8851
+                    }
+                ]
+            },
+            {
+                "id": "15a2a72c-3d77-48d0-ac7d-c7d43f4e8632",
+                "address": "Ossining",
+                "address_id": 31,
+                "max_capacity": 100,
+                "queues": [
+                    {
+                        "queue_id": "5481110b-e0e5-4812-8533-7aa11ff0f347",
+                        "start_datetime": "2020-07-15T19:23:00-04:00",
+                        "end_datetime": "2020-07-15T19:33:00-04:00",
+                        "max_capacity": 100,
+                        "address_id": 31,
+                        "address": "Ossining",
+                        "destination": "POUGHKEEPSIE",
+                        "resource_id": 8851
+                    }
+                ]
+            },
+            {
+                "id": "ea98a814-cee3-4851-aa44-54512655cacd",
+                "address": "Tarrytown",
+                "address_id": 27,
+                "max_capacity": 100,
+                "queues": [
+                    {
+                        "queue_id": "7b54dba1-4bad-4ca0-9f7a-0416618b327a",
+                        "start_datetime": "2020-07-15T19:15:00-04:00",
+                        "end_datetime": "2020-07-15T19:25:00-04:00",
+                        "max_capacity": 100,
+                        "address_id": 27,
+                        "address": "Tarrytown",
+                        "destination": "POUGHKEEPSIE",
+                        "resource_id": 8851
+                    }
+                ]
+            },
+            {
+                "id": "bccf3dec-fdba-49e6-aeb5-f070a79c945c",
+                "address": "Harlem-125th St.",
+                "address_id": 4,
+                "max_capacity": 100,
+                "queues": [
+                    {
+                        "queue_id": "92bcfe39-5ef6-434a-b101-0039b1f33f37",
+                        "start_datetime": "2020-07-15T18:46:00-04:00",
+                        "end_datetime": "2020-07-15T18:56:00-04:00",
+                        "max_capacity": 100,
+                        "address_id": 4,
+                        "address": "Harlem-125th St.",
+                        "destination": "POUGHKEEPSIE",
+                        "resource_id": 8851
+                    }
+                ]
+            },
+            {
+                "id": "3cd0c208-95cf-4e94-9a6e-15385dcac769",
+                "address": "Grand Central",
+                "address_id": 1,
+                "max_capacity": 100,
+                "queues": [
+                    {
+                        "queue_id": "d5422c3b-2c86-445d-b43d-96ca1b37f429",
+                        "start_datetime": "2020-07-15T18:35:00-04:00",
+                        "end_datetime": "2020-07-15T18:45:00-04:00",
+                        "max_capacity": 100,
+                        "address_id": 1,
+                        "address": "Grand Central",
+                        "destination": "POUGHKEEPSIE",
+                        "resource_id": 8851
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "b1ceea89-4b3b-4f80-a165-c3311c2e2f90",
+        "resource_id": 8851,
+        "train_from": "GRAND CENTRAL",
+        "train_to": "CROTON-HARMON",
+        "max_occupancy": 100,
+        "occupancy_sensor": "dummy_sensor",
+        "updated_date": "2020-07-15",
+        "locations": [
+            {
+                "id": "ad7829af-8522-459a-8173-8438cbbb0c54",
+                "address": "Poughkeepsie",
+                "address_id": 51,
+                "max_capacity": 100,
+                "queues": [
+                    {
+                        "queue_id": "5992e222-6711-42ce-8357-5bcc61949448",
+                        "start_datetime": "2020-07-15T20:30:00-04:00",
+                        "end_datetime": "2020-07-15T20:40:00-04:00",
+                        "max_capacity": 100,
+                        "address_id": 51,
+                        "address": "Poughkeepsie",
+                        "destination": "CROTON-HARMON",
+                        "resource_id": 8851
+                    }
+                ]
+            },
+            {
+                "id": "b43a98f7-11d2-4ebd-8f10-5b51513d7816",
+                "address": "New Hamburg",
+                "address_id": 49,
+                "max_capacity": 100,
+                "queues": [
+                    {
+                        "queue_id": "9928549a-d7e4-4fde-bec3-e27414561203",
+                        "start_datetime": "2020-07-15T20:14:00-04:00",
+                        "end_datetime": "2020-07-15T20:24:00-04:00",
+                        "max_capacity": 100,
+                        "address_id": 49,
+                        "address": "New Hamburg",
+                        "destination": "CROTON-HARMON",
+                        "resource_id": 8851
+                    }
+                ]
+            },
+            {
+                "id": "1f5b03f8-6425-4713-90ce-4ee4d28d5639",
+                "address": "Beacon",
+                "address_id": 46,
+                "max_capacity": 100,
+                "queues": [
+                    {
+                        "queue_id": "9113a90d-9013-48b1-9409-c1679b11d073",
+                        "start_datetime": "2020-07-15T20:05:00-04:00",
+                        "end_datetime": "2020-07-15T20:15:00-04:00",
+                        "max_capacity": 100,
+                        "address_id": 46,
+                        "address": "Beacon",
+                        "destination": "CROTON-HARMON",
+                        "resource_id": 8851
+                    }
+                ]
+            },
+            {
+                "id": "808275d6-84f7-47db-b6f4-93e37d2a27c2",
+                "address": "Cold Spring",
+                "address_id": 43,
+                "max_capacity": 100,
+                "queues": [
+                    {
+                        "queue_id": "4b7bf57d-1007-4de7-8e0b-ff5fe0c08ce4",
+                        "start_datetime": "2020-07-15T19:57:00-04:00",
+                        "end_datetime": "2020-07-15T20:07:00-04:00",
+                        "max_capacity": 100,
+                        "address_id": 43,
+                        "address": "Cold Spring",
+                        "destination": "CROTON-HARMON",
+                        "resource_id": 8851
+                    }
+                ]
+            },
+            {
+                "id": "c2fd69c2-55c0-4925-8ff3-1c46007b3bc1",
+                "address": "Garrison",
+                "address_id": 42,
+                "max_capacity": 100,
+                "queues": [
+                    {
+                        "queue_id": "ef22ccf5-f1ee-4515-ad2b-5bca05e0cea9",
+                        "start_datetime": "2020-07-15T19:53:00-04:00",
+                        "end_datetime": "2020-07-15T20:03:00-04:00",
+                        "max_capacity": 100,
+                        "address_id": 42,
+                        "address": "Garrison",
+                        "destination": "CROTON-HARMON",
+                        "resource_id": 8851
+                    }
+                ]
+            },
+            {
+                "id": "f991d5fa-8b54-4ba2-9778-201437fd1f6d",
+                "address": "Peekskill",
+                "address_id": 39,
+                "max_capacity": 100,
+                "queues": [
+                    {
+                        "queue_id": "79767362-d18d-4f0c-80f5-8ab77430bfe7",
+                        "start_datetime": "2020-07-15T19:42:00-04:00",
+                        "end_datetime": "2020-07-15T19:52:00-04:00",
+                        "max_capacity": 100,
+                        "address_id": 39,
+                        "address": "Peekskill",
+                        "destination": "CROTON-HARMON",
+                        "resource_id": 8851
+                    }
+                ]
+            },
+            {
+                "id": "4c565483-3dad-4550-a9c9-c1695847fc8c",
+                "address": "Cortlandt",
+                "address_id": 37,
+                "max_capacity": 100,
+                "queues": [
+                    {
+                        "queue_id": "44780739-1df5-4ea0-9c9e-06ad5e9a480c",
+                        "start_datetime": "2020-07-15T19:37:00-04:00",
+                        "end_datetime": "2020-07-15T19:47:00-04:00",
+                        "max_capacity": 100,
+                        "address_id": 37,
+                        "address": "Cortlandt",
+                        "destination": "CROTON-HARMON",
+                        "resource_id": 8851
+                    }
+                ]
+            },
+            {
+                "id": "61073c37-e0e8-48e3-b4f9-feb3965ba1d4",
+                "address": "Croton-Harmon",
+                "address_id": 33,
+                "max_capacity": 100,
+                "queues": [
+                    {
+                        "queue_id": "867b8740-b7e9-443e-b657-a73cf570b165",
+                        "start_datetime": "2020-07-15T19:29:00-04:00",
+                        "end_datetime": "2020-07-15T19:39:00-04:00",
+                        "max_capacity": 100,
+                        "address_id": 33,
+                        "address": "Croton-Harmon",
+                        "destination": "CROTON-HARMON",
+                        "resource_id": 8851
+                    }
+                ]
+            },
+            {
+                "id": "031bff22-ba1e-446e-9592-419820b79db7",
+                "address": "Ossining",
+                "address_id": 31,
+                "max_capacity": 100,
+                "queues": [
+                    {
+                        "queue_id": "05703096-aaa8-46b0-a6a3-0609142acc7e",
+                        "start_datetime": "2020-07-15T19:23:00-04:00",
+                        "end_datetime": "2020-07-15T19:33:00-04:00",
+                        "max_capacity": 100,
+                        "address_id": 31,
+                        "address": "Ossining",
+                        "destination": "CROTON-HARMON",
+                        "resource_id": 8851
+                    }
+                ]
+            },
+            {
+                "id": "7a121557-38bf-48c8-9eb3-76e1869f1987",
+                "address": "Tarrytown",
+                "address_id": 27,
+                "max_capacity": 100,
+                "queues": [
+                    {
+                        "queue_id": "d3996dca-6c57-4e1c-8ac8-8e7e72416b8a",
+                        "start_datetime": "2020-07-15T19:15:00-04:00",
+                        "end_datetime": "2020-07-15T19:25:00-04:00",
+                        "max_capacity": 100,
+                        "address_id": 27,
+                        "address": "Tarrytown",
+                        "destination": "CROTON-HARMON",
+                        "resource_id": 8851
+                    }
+                ]
+            },
+            {
+                "id": "98f9c228-3b76-4c54-849d-e409826e505a",
+                "address": "Harlem-125th St.",
+                "address_id": 4,
+                "max_capacity": 100,
+                "queues": [
+                    {
+                        "queue_id": "77c9b450-d1df-4ef5-b356-47bcb875e1a8",
+                        "start_datetime": "2020-07-15T18:46:00-04:00",
+                        "end_datetime": "2020-07-15T18:56:00-04:00",
+                        "max_capacity": 100,
+                        "address_id": 4,
+                        "address": "Harlem-125th St.",
+                        "destination": "CROTON-HARMON",
+                        "resource_id": 8851
+                    }
+                ]
+            },
+            {
+                "id": "6d0564d7-8ba1-44fd-bd60-4bf7a4c640d4",
+                "address": "Grand Central",
+                "address_id": 1,
+                "max_capacity": 100,
+                "queues": [
+                    {
+                        "queue_id": "c6e87e31-bde4-4ea0-ae21-e7e6d9ceeeb8",
+                        "start_datetime": "2020-07-15T18:35:00-04:00",
+                        "end_datetime": "2020-07-15T18:45:00-04:00",
+                        "max_capacity": 100,
+                        "address_id": 1,
+                        "address": "Grand Central",
+                        "destination": "CROTON-HARMON",
+                        "resource_id": 8851
+                    }
+                ]
+            }
+        ]
+    }
+]
