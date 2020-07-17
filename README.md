@@ -14,7 +14,7 @@ Choose where you want to be and when you want to be there. The Smart Queue estim
 
 
 ## The App Demo
-[The app](https://github.com/dxc-technology/DXC-Smart-Queue/tree/master/Code/App/app_code) is written using the Flutter framework. We created two versions of the app. One runs natively on Android mobile devices, the other runs natively on iOS mobile devices. Because deploying to an iOS device requires registration with iTunes and approval from Apple, the demo is for Android devices only.
+[The app](https://github.com/dxc-technology/DXC-Smart-Queue/tree/master/Code/App/app_code) is written using the Flutter framework. We created two versions of the app. One runs natively on Android mobile devices, the other runs natively on iOS mobile devices.
 
 ### Install the App (Android)
 From your Android device:
@@ -22,39 +22,38 @@ From your Android device:
 1. **Download the APK file.** From the browser, download the APK: https://link.APK
 1. Go to the downloaded APK file, tap it, then hit Install
 
-### Select a destination
-1. From the main screen select [option]
-1. In the [window] window, type [text]
-1. In the [window] window, type [text]
-1. In the [window] widget, select [selection]
-1. Press the search icon
-1. Select a queue from the [option] options
+### Search for a queue
+1. From the main screen select _Trains_ from the bottom navigation bar.
+1. Tap _From_ text field. Search for and select _Darien_.
+1. Tap _To_ text field. Search for and select _Grand Central_.
+1. Select today's date and a time one hour in the future.
+1. Tap _Search Trains_.
 
 ### Make reservations
-1. From the [screen] screen select [option]
-1. Select [option]
+1. Search for a queue
+1. Select any available option
+1. From the _details_ screen, select the _Book_ option
 
 ### Check reservations
-1. From the [screen] screen select [option]
-1. Select [option]
+1. From the main screen, tap _Bookings_ in the bottom navigation bar.
 
 ### Complete a reservation
-1. From the [screen] screen select [option]
-1. Select [option]
+1. Check reservations
+1. Select a reservation
+1. Tap _Complete Reservation_
 
 ### Cancel a reservation
-1. Make a reservation
-1. From the [screen] screen select [option]
-1. Select [option]
+1. Check reservations
+1. Select a reservation
+1. Tap _Cancel Reservation_
 
 ### Miss a reservation
 Normally, the application will automatically mark your reservation as missed if you do not show up to the location at the scheduled time. The following instructions allow you to simulate this experience
 1. Make a reservation
-1. From the [screen] screen select [option]
-1. Select [option]
+1. From the _hamburger menu_ select _simulate missed reservation_.
 
 ### Check your points
-1. From the [screen] screen select [option]
+1. From the _main_ screen tap on _profile_
 1. Select [option]
 
 ## The Design
