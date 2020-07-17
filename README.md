@@ -66,7 +66,7 @@ The Smart Queue monitors the occupants of each train, the capacity of each stati
 
 
 ### The Data Lake
-Overview of the data lake
+The Smart Queue reads [Queue Schedules]( https://github.com/dxc-technology/DXC-Smart-Queue/blob/master/Data/Schema_Resource_Locations_Queues.json) from the Data Lake. The Data Lake is a PostgreSQL database running in a Microsoft Azure for PostgreSQL Database cloud service. The Queue Schedule specifies waiting queues for each train and platform. This data is updated on a regular basis from a running data pipeline.
 
 ### The Data Pipeline
 Overview of the data pipeline
