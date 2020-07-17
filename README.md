@@ -56,7 +56,7 @@ Normally, the application will automatically mark your reservation as missed if 
 1. Select [option]
 
 ## The Design
-The app uses the Flutter framework to run natively on Android and iOS. The app communicates with the Smart Queue, which is implemented as Python/Django app running in Azure. The data pipeline pulls real-time information from the MTA and updates the Azure PostgreSQL Database—which feeds the Smart Queue. Each component is designed to scale separately using Azure's native cloud services.
+[The app](https://github.com/dxc-technology/DXC-Smart-Queue/tree/master/Code/App/app_code) uses the Flutter framework to run natively on Android and iOS. The app communicates with the Smart Queue, which is implemented as Python/Django app running in Azure. The data pipeline pulls real-time information from the MTA and updates the Azure PostgreSQL Database—which feeds the Smart Queue. Each component is designed to scale separately using Azure's native cloud services.
 
 ![](Documentation/Technical/architecture-diagram.png)
 
