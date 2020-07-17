@@ -17,14 +17,43 @@ We created two versions of the app. One runs natively on Android mobile devices,
 ### Install the App (Android)
 From your Android device:
 1. **Allow installation of third-party apps.** Go to Menu > Settings > Security > and check Unknown Sources to allow your phone to install apps from sources other than the Google Play Store
-1. **Download the APK file.** From the browseer, download the APK: https://link.APK
+1. **Download the APK file.** From the browser, download the APK: https://link.APK
 1. Go to the downloaded APK file, tap it, then hit Install
 
 ### Select a destination
+1. From the main screen select [option]
+1. In the [window] window, type [text]
+1. In the [window] window, type [text]
+1. In the [window] widget, select [selection]
+1. Press the search icon
+1. Select a queue from the [option] options
+
 ### Make reservations
+1. From the [screen] screen select [option]
+1. Select [option]
+
+### Check reservations
+1. From the [screen] screen select [option]
+1. Select [option]
+
+### Complete a reservation
+1. From the [screen] screen select [option]
+1. Select [option]
+
 ### Cancel a reservation
-### Get a notification
+1. Make a reservation
+1. From the [screen] screen select [option]
+1. Select [option]
+
+### Miss a reservation
+Normally, the application will automatically mark your reservation as missed if you do not show up to the location at the scheduled time. The following instructions allow you to simulate this experience
+1. Make a reservation
+1. From the [screen] screen select [option]
+1. Select [option]
+
 ### Check your points
+1. From the [screen] screen select [option]
+1. Select [option]
 
 ## The Design
 The app uses the Flutter framework to run natively on Android and iOS. The app communicates with the Smart Queue, which is implemented as Python/Django app running in Azure. The data pipeline pulls real-time information from the MTA and updates the Azure PostgreSQL Database—which feeds the Smart Queue. Each component is designed to scale separately using Azure's native cloud services.
