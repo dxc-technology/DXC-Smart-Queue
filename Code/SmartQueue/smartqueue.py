@@ -352,6 +352,7 @@ class SmartQueue:
     details = {
         'reservation_id':reservation.id,
         'reservation_state':reservation.state,
+        'queue_id':queue.id,
         'start_time':queue.open_datetime,
         'end_time':queue.close_datetime,
         'resource':queue.resource_id,
