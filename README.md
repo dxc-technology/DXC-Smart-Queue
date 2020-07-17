@@ -5,6 +5,8 @@
 
 **Business implementation:** The application uses Microsoft Azure’s native cloud services and scale. The roadmap to production requires customizing the application to a specific set of trains and times, deploying the system, and testing it.
 
+**Watch the overview video...**
+
 [![Watch the video](https://img.youtube.com/vi/__JuQAPp798/maxresdefault.jpg)](https://www.youtube.com/watch?v=__JuQAPp798&feature=youtu.be)
 
 ## Overview
