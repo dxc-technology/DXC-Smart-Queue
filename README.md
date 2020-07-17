@@ -15,8 +15,10 @@ Choose where you want to be and when you want to be there. The Smart Queue estim
 We created two versions of the app. One runs natively on Android mobile devices, the other runs natively on iOS mobile devices. Because deploying to an iOS device requires registration with iTunes and approval from Apple, the demo is for Android devices only.
 
 ### Install the App (Android)
-1. From your Android device, download the APK: link
-1. Instruction here
+From your Android device:
+1. **Allow installation of third-party apps.** Go to Menu > Settings > Security > and check Unknown Sources to allow your phone to install apps from sources other than the Google Play Store
+1. **Download the APK file.** From the browseer, download the APK: https://link.APK
+1. Go to the downloaded APK file, tap it, then hit Install
 
 ### Select a destination
 ### Make reservations
