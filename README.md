@@ -61,7 +61,9 @@ The app uses the Flutter framework to run natively on Android and iOS. The app c
 ![](Documentation/Technical/architecture-diagram.png)
 
 ### The Smart Queue
-Overview of the Smart Queue
+The Smart Queue is written in Python and deployed as a Django app running in a Microsoft Azure Web App. The Smart Queue reads queue schedules (every 15 minutes) from data lake and updates itself.
+The Smart Queue monitors the occupants of each train, the capacity of each station, and the capacity of each queue. When in demo deployment, readings on the occupancy of each train is simulated. But when deployed in production, the Smart Queue can be plugged into live train occupant updates. The Smart Queue assigns points based on remaining occupant capacity. The lower the remaining capacity, the lower the points. The Smart Queue takes into account queues that overlap at different locations and queues that lose capacity because the arriving train is already full.
+
 
 ### The Data Lake
 Overview of the data lake
