@@ -36,5 +36,7 @@ The Smart Queue reads [Queue Schedules]( https://github.com/dxc-technology/DXC-S
 ### The Data Pipeline
 The [data pipeline](https://github.com/dxc-technology/DXC-Smart-Queue/tree/master/Code/Pipeline) is written in Python and deployed as a Django app running in a Microsoft Azure Web App. The data pipeline reads raw MTA data from [select MTA APIs]( https://github.com/dxc-technology/DXC-Smart-Queue/blob/master/Documentation/Technical/apiList_backend.txt), converts the raw data into a [queue schedule]( https://github.com/dxc-technology/DXC-Smart-Queue/blob/master/Data/Schema_Resource_Locations_Queues.json) and writes the queue schedule to the data lake. By default, the data pipeline runs every 15 minutes.
 
-## Supporting Documents
-Links to important documents
+## Important Links
+* [Main Presentation.]( https://github.com/dxc-technology/DXC-Smart-Queue/blob/master/Documentation/User/Team-16-Presentation%20OPEN%20IN%20PRESENTATION%20MODE.pptx) Please open this in Presentation Mode.
+* [Summary Video]( https://www.youtube.com/watch?v=__JuQAPp798&feature=youtu.be)
+
