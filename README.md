@@ -5,6 +5,8 @@
 
 **Business implementation:** The application uses Microsoft Azure’s native cloud services and scale. The roadmap to production requires customizing the application to a specific set of trains and times, deploying the system, and testing it.
 
+[![Watch the video](https://img.youtube.com/vi/__JuQAPp798/maxresdefault.jpg)](https://www.youtube.com/watch?v=__JuQAPp798&feature=youtu.be)
+
 ## Overview
 People respond a lot better when you make them part of the solution, not the problem. The transit system is complex and keeping it both useful and safe is difficult. What if instead of imposing travel restrictions, you gave people incentives to look out for each other? [Algorithmic mechanism design](https://en.wikipedia.org/wiki/Algorithmic_mechanism_design) lets you align the interests of each person with the common good. We built this technique into a system that we call the Smart Queue. The Smart Queue monitors the complex transit network and offers each rider real-time rewards for willingly keeping a safe social distance.
 
@@ -12,7 +14,7 @@ Choose where you want to be and when you want to be there. The Smart Queue estim
 
 
 ## The App Demo
-We created two versions of the app. One runs natively on Android mobile devices, the other runs natively on iOS mobile devices. Because deploying to an iOS device requires registration with iTunes and approval from Apple, the demo is for Android devices only.
+[The app](https://github.com/dxc-technology/DXC-Smart-Queue/tree/master/Code/App/app_code) is written using the Flutter framework. We created two versions of the app. One runs natively on Android mobile devices, the other runs natively on iOS mobile devices. Because deploying to an iOS device requires registration with iTunes and approval from Apple, the demo is for Android devices only.
 
 ### Install the App (Android)
 From your Android device:
@@ -56,7 +58,7 @@ Normally, the application will automatically mark your reservation as missed if 
 1. Select [option]
 
 ## The Design
-The app uses the Flutter framework to run natively on Android and iOS. The app communicates with the Smart Queue, which is implemented as Python/Django app running in Azure. The data pipeline pulls real-time information from the MTA and updates the Azure PostgreSQL Database—which feeds the Smart Queue. Each component is designed to scale separately using Azure's native cloud services.
+[The app](https://github.com/dxc-technology/DXC-Smart-Queue/tree/master/Code/App/app_code) uses the Flutter framework to run natively on Android and iOS. The app communicates with the Smart Queue, which is implemented as Python/Django app running in Azure. The data pipeline pulls real-time information from the MTA and updates the Azure PostgreSQL Database—which feeds the Smart Queue. Each component is designed to scale separately using Azure's native cloud services.
 
 ![](Documentation/Technical/architecture-diagram.png)
 
