@@ -12,11 +12,10 @@ Choose where you want to be and when you want to be there. The Smart Queue estim
 
 
 ## The App Demo
-Overview of the app and instructions for using it
+We created two versions of the app. One runs natively on Android mobile devices, the other runs natively on iOS mobile devices. Because deploying to an iOS device requires registration with iTunes and approval from Apple, the demo is for Android devices only.
 
 ### Install the App (Android)
-Overview here
-1. Instruction here
+1. From your Android device, download the APK: link
 1. Instruction here
 
 ### Select a destination
