@@ -10,7 +10,6 @@ def filter_data(trains):
        sq_data = []
        now = datetime.now()
        timezone = pytz.timezone('US/Eastern')
-       filtered_trains = [train for train in trains if parse(train['updated_date']).date() >= now.date()]
        for ft in filtered_trains:
                destination = ft['locations'][-1]
                queue = destination['queues'][0]
