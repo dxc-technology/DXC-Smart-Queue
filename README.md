@@ -11,8 +11,19 @@ People respond a lot better when you make them part of the solution, not the pro
 Choose where you want to be and when you want to be there. The Smart Queue estimates the social responsibility of each option, assigns points, and shows you the results. Choose whichever option you like, but the Smart Queue will gently nudge if more responsible choices are available. The better your choices, the more reward points you earn. You can check on the rewards you’ve earned at any time. The application notifies you of upcoming reservations or when, despite your best efforts, you might be entering an overcrowded zone.
 
 
-## The App
+## The App Demo
 Overview of the app and instructions for using it
+
+### Install the App (Android)
+Overview here
+1. Instruction here
+1. Instruction here
+
+### Select a destination
+### Make reservations
+### Cancel a reservation
+### Get a notification
+### Check your points
 
 ## The Design
 The app uses the Flutter framework to run natively on Android and iOS. The app communicates with the Smart Queue, which is implemented as Python/Django app running in Azure. The data pipeline pulls real-time information from the MTA and updates the Azure PostgreSQL Database—which feeds the Smart Queue. Each component is designed to scale separately using Azure's native cloud services.
