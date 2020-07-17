@@ -31,6 +31,10 @@ def _get_trainby_station_json(train_id, from_station):
     except Exception as e:
         return None
 
+def clean_old_trains():
+    yesterday = datetime.now() - timedelta(days=1)
+    Resource.objects.filter(updated_date=yesterday).delete()
+
 
 def update_schedule():
     print("API started")
@@ -74,7 +78,6 @@ def update_schedule():
                                               address=stop['LocationName'],destination=train_to, resource_id=train_id,
                                               location_id=location.id)
                                     queue.save()
-                                    print("saved entry")
                         except Exception as e:
                             raise e
     print("API stopped")

@@ -7,14 +7,12 @@ from .models import Resource
 
 # Create your views here.
 class ResourceViewSet(viewsets.ModelViewSet):
-    queryset = Resource.objects.all()
+    current_date = datetime.now().date()
+    queryset = Resource.objects.filter(updated_date__gte=current_date)
     serializer_class = ResourceSerializer
 
     def create(self, request):
-        """
-        to parse the incoming request and create a new match or update
-        existing odds.
-        """
+        # insert a resource via post request
         datas = request.data
         locs = datas.pop('locations')
         now = datetime.now()
