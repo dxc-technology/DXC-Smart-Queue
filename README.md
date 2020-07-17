@@ -69,7 +69,7 @@ The Smart Queue monitors the occupants of each train, the capacity of each stati
 The Smart Queue reads [Queue Schedules]( https://github.com/dxc-technology/DXC-Smart-Queue/blob/master/Data/Schema_Resource_Locations_Queues.json) from the Data Lake. The Data Lake is a PostgreSQL database running in a Microsoft Azure for PostgreSQL Database cloud service. The Queue Schedule specifies waiting queues for each train and platform. This data is updated on a regular basis from a running data pipeline.
 
 ### The Data Pipeline
-Overview of the data pipeline
+The (data pipeline)[ https://github.com/dxc-technology/DXC-Smart-Queue/tree/master/Code/Pipeline] is written in Python and deployed as a Django app running in a Microsoft Azure Web App. The data pipeline reads raw MTA data from [select MTA APIs]( https://github.com/dxc-technology/DXC-Smart-Queue/blob/master/Documentation/Technical/apiList_backend.txt), converts the raw data into a [queue schedule]( https://github.com/dxc-technology/DXC-Smart-Queue/blob/master/Data/Schema_Resource_Locations_Queues.json) and writes the queue schedule to the data lake. By default, the data pipeline runs every 15 minutes.
 
 ## Supporting Documents
 Links to important documents
