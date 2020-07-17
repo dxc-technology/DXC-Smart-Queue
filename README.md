@@ -5,6 +5,8 @@
 
 **Business implementation:** The application uses Microsoft Azure’s native cloud services and scale. The roadmap to production requires customizing the application to a specific set of trains and times, deploying the system, and testing it.
 
+[![Watch the video](https://img.youtube.com/vi/__JuQAPp798/maxresdefault.jpg)](https://www.youtube.com/watch?v=__JuQAPp798&feature=youtu.be)
+
 ## Overview
 People respond a lot better when you make them part of the solution, not the problem. The transit system is complex and keeping it both useful and safe is difficult. What if instead of imposing travel restrictions, you gave people incentives to look out for each other? [Algorithmic mechanism design](https://en.wikipedia.org/wiki/Algorithmic_mechanism_design) lets you align the interests of each person with the common good. We built this technique into a system that we call the Smart Queue. The Smart Queue monitors the complex transit network and offers each rider real-time rewards for willingly keeping a safe social distance.
 
