@@ -12,7 +12,7 @@ Choose where you want to be and when you want to be there. The Smart Queue estim
 
 
 ## The App Demo
-We created two versions of the app. One runs natively on Android mobile devices, the other runs natively on iOS mobile devices. Because deploying to an iOS device requires registration with iTunes and approval from Apple, the demo is for Android devices only.
+[The app](https://github.com/dxc-technology/DXC-Smart-Queue/tree/master/Code/App/app_code) is written using the Flutter framework. We created two versions of the app. One runs natively on Android mobile devices, the other runs natively on iOS mobile devices. Because deploying to an iOS device requires registration with iTunes and approval from Apple, the demo is for Android devices only.
 
 ### Install the App (Android)
 From your Android device:
