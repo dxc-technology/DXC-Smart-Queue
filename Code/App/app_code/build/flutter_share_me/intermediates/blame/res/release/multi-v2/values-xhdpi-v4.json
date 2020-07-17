@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/values-xhdpi-v4/values-xhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/6e516c699ed3c3cac9ffae997124e4b6/jetified-twitter-core-3.1.1/res/values-xhdpi-v4/values-xhdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/incremental/mergeReleaseResources/merged.dir/values-xhdpi-v4/values-xhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/6e516c699ed3c3cac9ffae997124e4b6/jetified-twitter-core-3.1.1/res/values-xhdpi-v4/values-xhdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                }
+            ]
+        }
+    ]
+}

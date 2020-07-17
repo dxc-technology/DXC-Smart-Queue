@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/anim/tw__accelerate_cubic.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/96d9756e646ddbc7bd1e71f4e9936860/jetified-tweet-ui-3.1.1/res/anim/tw__accelerate_cubic.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/anim/tw__slide_out.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/96d9756e646ddbc7bd1e71f4e9936860/jetified-tweet-ui-3.1.1/res/anim/tw__slide_out.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/anim/abc_tooltip_enter.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/anim/abc_tooltip_exit.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/anim/abc_popup_enter.xml"
+    }
+]

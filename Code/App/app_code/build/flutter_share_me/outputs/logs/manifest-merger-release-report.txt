@@ -1,0 +1,41 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/diwakar/.pub-cache/hosted/pub.dartlang.org/flutter_share_me-0.9.1/android/src/main/AndroidManifest.xml:1:1-16:12
+INJECTED from /Users/diwakar/.pub-cache/hosted/pub.dartlang.org/flutter_share_me-0.9.1/android/src/main/AndroidManifest.xml:1:1-16:12
+INJECTED from /Users/diwakar/.pub-cache/hosted/pub.dartlang.org/flutter_share_me-0.9.1/android/src/main/AndroidManifest.xml:1:1-16:12
+	package
+		ADDED from /Users/diwakar/.pub-cache/hosted/pub.dartlang.org/flutter_share_me-0.9.1/android/src/main/AndroidManifest.xml:2:5-41
+		INJECTED from /Users/diwakar/.pub-cache/hosted/pub.dartlang.org/flutter_share_me-0.9.1/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/diwakar/.pub-cache/hosted/pub.dartlang.org/flutter_share_me-0.9.1/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/diwakar/.pub-cache/hosted/pub.dartlang.org/flutter_share_me-0.9.1/android/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/diwakar/.pub-cache/hosted/pub.dartlang.org/flutter_share_me-0.9.1/android/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/diwakar/.pub-cache/hosted/pub.dartlang.org/flutter_share_me-0.9.1/android/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/diwakar/.pub-cache/hosted/pub.dartlang.org/flutter_share_me-0.9.1/android/src/main/AndroidManifest.xml:5:5-15:19
+provider#zhuoyuan.li.fluttershareme.util.ShareFileProvider
+ADDED from /Users/diwakar/.pub-cache/hosted/pub.dartlang.org/flutter_share_me-0.9.1/android/src/main/AndroidManifest.xml:6:9-14:20
+	android:grantUriPermissions
+		ADDED from /Users/diwakar/.pub-cache/hosted/pub.dartlang.org/flutter_share_me-0.9.1/android/src/main/AndroidManifest.xml:10:13-47
+	android:authorities
+		ADDED from /Users/diwakar/.pub-cache/hosted/pub.dartlang.org/flutter_share_me-0.9.1/android/src/main/AndroidManifest.xml:8:13-60
+	android:exported
+		ADDED from /Users/diwakar/.pub-cache/hosted/pub.dartlang.org/flutter_share_me-0.9.1/android/src/main/AndroidManifest.xml:9:13-37
+	android:name
+		ADDED from /Users/diwakar/.pub-cache/hosted/pub.dartlang.org/flutter_share_me-0.9.1/android/src/main/AndroidManifest.xml:7:13-51
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/diwakar/.pub-cache/hosted/pub.dartlang.org/flutter_share_me-0.9.1/android/src/main/AndroidManifest.xml:11:13-13:54
+	android:resource
+		ADDED from /Users/diwakar/.pub-cache/hosted/pub.dartlang.org/flutter_share_me-0.9.1/android/src/main/AndroidManifest.xml:13:17-51
+	android:name
+		ADDED from /Users/diwakar/.pub-cache/hosted/pub.dartlang.org/flutter_share_me-0.9.1/android/src/main/AndroidManifest.xml:12:17-67
+uses-sdk
+INJECTED from /Users/diwakar/.pub-cache/hosted/pub.dartlang.org/flutter_share_me-0.9.1/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/diwakar/.pub-cache/hosted/pub.dartlang.org/flutter_share_me-0.9.1/android/src/main/AndroidManifest.xml
+INJECTED from /Users/diwakar/.pub-cache/hosted/pub.dartlang.org/flutter_share_me-0.9.1/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/diwakar/.pub-cache/hosted/pub.dartlang.org/flutter_share_me-0.9.1/android/src/main/AndroidManifest.xml
+		ADDED from /Users/diwakar/.pub-cache/hosted/pub.dartlang.org/flutter_share_me-0.9.1/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/diwakar/.pub-cache/hosted/pub.dartlang.org/flutter_share_me-0.9.1/android/src/main/AndroidManifest.xml

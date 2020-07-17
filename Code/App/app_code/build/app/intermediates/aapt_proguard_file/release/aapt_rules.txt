@@ -1,0 +1,146 @@
+# Referenced at /Users/diwakar/MTA_hack/mta_hackathon/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:22
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /Users/diwakar/MTA_hack/mta_hackathon/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:58
+-keep class com.dxc.mtahackathon.MainActivity { <init>(); }
+# Referenced at /Users/diwakar/MTA_hack/mta_hackathon/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:128
+-keep class com.facebook.CampaignTrackingReceiver { <init>(); }
+# Referenced at /Users/diwakar/MTA_hack/mta_hackathon/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:121
+-keep class com.facebook.CurrentAccessTokenExpirationBroadcastReceiver { <init>(); }
+# Referenced at /Users/diwakar/MTA_hack/mta_hackathon/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:99
+-keep class com.facebook.CustomTabActivity { <init>(); }
+# Referenced at /Users/diwakar/MTA_hack/mta_hackathon/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:98
+-keep class com.facebook.CustomTabMainActivity { <init>(); }
+# Referenced at /Users/diwakar/MTA_hack/mta_hackathon/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:94
+-keep class com.facebook.FacebookActivity { <init>(); }
+# Referenced at /Users/diwakar/MTA_hack/mta_hackathon/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:116
+-keep class com.facebook.internal.FacebookInitProvider { <init>(); }
+# Referenced at /Users/diwakar/MTA_hack/mta_hackathon/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:147
+-keep class com.twitter.sdk.android.core.identity.OAuthActivity { <init>(); }
+# Referenced at /Users/diwakar/MTA_hack/mta_hackathon/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:137
+-keep class com.twitter.sdk.android.tweetcomposer.ComposerActivity { <init>(); }
+# Referenced at /Users/diwakar/MTA_hack/mta_hackathon/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:142
+-keep class com.twitter.sdk.android.tweetcomposer.TweetUploadService { <init>(); }
+# Referenced at /Users/diwakar/MTA_hack/mta_hackathon/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:104
+-keep class com.twitter.sdk.android.tweetui.GalleryActivity { <init>(); }
+# Referenced at /Users/diwakar/MTA_hack/mta_hackathon/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:100
+-keep class com.twitter.sdk.android.tweetui.PlayerActivity { <init>(); }
+# Referenced at /Users/diwakar/MTA_hack/mta_hackathon/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:22
+-keep class io.flutter.app.FlutterApplication { <init>(); }
+# Referenced at /Users/diwakar/MTA_hack/mta_hackathon/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:79
+-keep class io.flutter.plugins.urllauncher.WebViewActivity { <init>(); }
+# Referenced at /Users/diwakar/MTA_hack/mta_hackathon/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:84
+-keep class zhuoyuan.li.fluttershareme.util.ShareFileProvider { <init>(); }
+# Referenced at /Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_alert_dialog_button_bar_material.xml:43
+# Referenced at /Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_alert_dialog_material.xml:52
+# Referenced at /Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_alert_dialog_title_material.xml:56
+-keep class android.widget.Space { <init>(...); }
+
+# Referenced at /Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_select_dialog_material.xml:23
+-keep class androidx.appcompat.app.AlertController$RecycleListView { <init>(...); }
+
+# Referenced at /Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_action_menu_item_layout.xml:17
+-keep class androidx.appcompat.view.menu.ActionMenuItemView { <init>(...); }
+
+# Referenced at /Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_expanded_menu_layout.xml:17
+-keep class androidx.appcompat.view.menu.ExpandedMenuView { <init>(...); }
+
+# Referenced at /Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_cascading_menu_item_layout.xml:20
+# Referenced at /Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_list_menu_item_layout.xml:17
+# Referenced at /Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_popup_menu_item_layout.xml:17
+-keep class androidx.appcompat.view.menu.ListMenuItemView { <init>(...); }
+
+# Referenced at /Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_screen_toolbar.xml:27
+-keep class androidx.appcompat.widget.ActionBarContainer { <init>(...); }
+
+# Referenced at /Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_action_mode_bar.xml:19
+# Referenced at /Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_screen_toolbar.xml:43
+-keep class androidx.appcompat.widget.ActionBarContextView { <init>(...); }
+
+# Referenced at /Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_screen_toolbar.xml:17
+-keep class androidx.appcompat.widget.ActionBarOverlayLayout { <init>(...); }
+
+# Referenced at /Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_action_menu_layout.xml:17
+-keep class androidx.appcompat.widget.ActionMenuView { <init>(...); }
+
+# Referenced at /Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_activity_chooser_view.xml:19
+-keep class androidx.appcompat.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# Referenced at /Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_alert_dialog_material.xml:18
+-keep class androidx.appcompat.widget.AlertDialogLayout { <init>(...); }
+
+# Referenced at /Users/diwakar/.gradle/caches/transforms-2/files-2.1/28999a38b93cf8049b57dc98febd5747/jetified-facebook-common-5.9.0/res/layout/com_facebook_device_auth_dialog_fragment.xml:45
+# Referenced at /Users/diwakar/.gradle/caches/transforms-2/files-2.1/28999a38b93cf8049b57dc98febd5747/jetified-facebook-common-5.9.0/res/layout/com_facebook_smart_device_dialog_fragment.xml:47
+-keep class androidx.appcompat.widget.AppCompatImageView { <init>(...); }
+
+# Referenced at /Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_alert_dialog_button_bar_material.xml:26
+-keep class androidx.appcompat.widget.ButtonBarLayout { <init>(...); }
+
+# Referenced at /Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_screen_content_include.xml:19
+-keep class androidx.appcompat.widget.ContentFrameLayout { <init>(...); }
+
+# Referenced at /Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_alert_dialog_title_material.xml:45
+-keep class androidx.appcompat.widget.DialogTitle { <init>(...); }
+
+# Referenced at /Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_screen_simple_overlay_action_mode.xml:23
+-keep class androidx.appcompat.widget.FitWindowsFrameLayout { <init>(...); }
+
+# Referenced at /Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_dialog_title_material.xml:22
+# Referenced at /Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_screen_simple.xml:17
+-keep class androidx.appcompat.widget.FitWindowsLinearLayout { <init>(...); }
+
+# Referenced at /Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_search_view.xml:75
+-keep class androidx.appcompat.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# Referenced at /Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_screen_toolbar.xml:36
+-keep class androidx.appcompat.widget.Toolbar { <init>(...); }
+
+# Referenced at /Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_screen_simple.xml:25
+# Referenced at /Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_screen_simple_overlay_action_mode.xml:32
+-keep class androidx.appcompat.widget.ViewStubCompat { <init>(...); }
+
+# Referenced at /Users/diwakar/.gradle/caches/transforms-2/files-2.1/ada9ce00a2e69b026f606b2fd7970c81/browser-1.0.0/res/layout/browser_actions_context_menu_page.xml:5
+-keep class androidx.browser.browseractions.BrowserActionsFallbackMenuView { <init>(...); }
+
+# Referenced at /Users/diwakar/.gradle/caches/transforms-2/files-2.1/28999a38b93cf8049b57dc98febd5747/jetified-facebook-common-5.9.0/res/layout/com_facebook_device_auth_dialog_fragment.xml:22
+# Referenced at /Users/diwakar/.gradle/caches/transforms-2/files-2.1/28999a38b93cf8049b57dc98febd5747/jetified-facebook-common-5.9.0/res/layout/com_facebook_smart_device_dialog_fragment.xml:22
+-keep class androidx.cardview.widget.CardView { <init>(...); }
+
+# Referenced at /Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_alert_dialog_material.xml:41
+-keep class androidx.core.widget.NestedScrollView { <init>(...); }
+
+# Referenced at /Users/diwakar/.gradle/caches/transforms-2/files-2.1/9f5fd01b054f0764306581c091451a0c/jetified-tweet-composer-3.1.1/res/layout/tw__activity_composer.xml:21
+-keep class com.twitter.sdk.android.tweetcomposer.ComposerView { <init>(...); }
+
+# Referenced at /Users/diwakar/.gradle/caches/transforms-2/files-2.1/9f5fd01b054f0764306581c091451a0c/jetified-tweet-composer-3.1.1/res/layout/tw__composer_view.xml:58
+-keep class com.twitter.sdk.android.tweetcomposer.internal.util.ObservableScrollView { <init>(...); }
+
+# Referenced at /Users/diwakar/.gradle/caches/transforms-2/files-2.1/96d9756e646ddbc7bd1e71f4e9936860/jetified-tweet-ui-3.1.1/res/layout/tw__action_bar.xml:28
+-keep class com.twitter.sdk.android.tweetui.ToggleImageButton { <init>(...); }
+
+# Referenced at /Users/diwakar/.gradle/caches/transforms-2/files-2.1/96d9756e646ddbc7bd1e71f4e9936860/jetified-tweet-ui-3.1.1/res/layout/tw__action_bar.xml:18
+-keep class com.twitter.sdk.android.tweetui.TweetActionBarView { <init>(...); }
+
+# Referenced at /Users/diwakar/.gradle/caches/transforms-2/files-2.1/96d9756e646ddbc7bd1e71f4e9936860/jetified-tweet-ui-3.1.1/res/layout/tw__tweet.xml:23
+# Referenced at /Users/diwakar/.gradle/caches/transforms-2/files-2.1/96d9756e646ddbc7bd1e71f4e9936860/jetified-tweet-ui-3.1.1/res/layout/tw__tweet_compact.xml:72
+# Referenced at /Users/diwakar/.gradle/caches/transforms-2/files-2.1/96d9756e646ddbc7bd1e71f4e9936860/jetified-tweet-ui-3.1.1/res/layout/tw__tweet_quote.xml:51
+-keep class com.twitter.sdk.android.tweetui.internal.AspectRatioFrameLayout { <init>(...); }
+
+# Referenced at /Users/diwakar/.gradle/caches/transforms-2/files-2.1/96d9756e646ddbc7bd1e71f4e9936860/jetified-tweet-ui-3.1.1/res/layout/tw__tweet.xml:31
+# Referenced at /Users/diwakar/.gradle/caches/transforms-2/files-2.1/96d9756e646ddbc7bd1e71f4e9936860/jetified-tweet-ui-3.1.1/res/layout/tw__tweet_compact.xml:83
+# Referenced at /Users/diwakar/.gradle/caches/transforms-2/files-2.1/96d9756e646ddbc7bd1e71f4e9936860/jetified-tweet-ui-3.1.1/res/layout/tw__tweet_quote.xml:62
+-keep class com.twitter.sdk.android.tweetui.internal.MediaBadgeView { <init>(...); }
+
+# Referenced at /Users/diwakar/.gradle/caches/transforms-2/files-2.1/96d9756e646ddbc7bd1e71f4e9936860/jetified-tweet-ui-3.1.1/res/layout/tw__tweet.xml:27
+# Referenced at /Users/diwakar/.gradle/caches/transforms-2/files-2.1/96d9756e646ddbc7bd1e71f4e9936860/jetified-tweet-ui-3.1.1/res/layout/tw__tweet_compact.xml:79
+# Referenced at /Users/diwakar/.gradle/caches/transforms-2/files-2.1/96d9756e646ddbc7bd1e71f4e9936860/jetified-tweet-ui-3.1.1/res/layout/tw__tweet_quote.xml:58
+-keep class com.twitter.sdk.android.tweetui.internal.TweetMediaView { <init>(...); }
+
+# Referenced at /Users/diwakar/.gradle/caches/transforms-2/files-2.1/96d9756e646ddbc7bd1e71f4e9936860/jetified-tweet-ui-3.1.1/res/layout/tw__player_activity.xml:32
+-keep class com.twitter.sdk.android.tweetui.internal.VideoControlView { <init>(...); }
+
+# Referenced at /Users/diwakar/.gradle/caches/transforms-2/files-2.1/96d9756e646ddbc7bd1e71f4e9936860/jetified-tweet-ui-3.1.1/res/layout/tw__player_activity.xml:20
+-keep class com.twitter.sdk.android.tweetui.internal.VideoView { <init>(...); }
+
+# Referenced at /Users/diwakar/.gradle/caches/transforms-2/files-2.1/96d9756e646ddbc7bd1e71f4e9936860/jetified-tweet-ui-3.1.1/res/layout/tw__gallery_activity.xml:22
+-keep class com.twitter.sdk.android.tweetui.internal.ViewPagerFixed { <init>(...); }
+

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/launch_review/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/453e5a1f84d519fe28843d3b3ee67be8/core-1.0.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/launch_review/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/453e5a1f84d519fe28843d3b3ee67be8/core-1.0.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/launch_review/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/453e5a1f84d519fe28843d3b3ee67be8/core-1.0.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/launch_review/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/453e5a1f84d519fe28843d3b3ee67be8/core-1.0.0/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

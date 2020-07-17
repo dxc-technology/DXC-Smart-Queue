@@ -1,0 +1,254 @@
+[
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/select_dialog_item_material.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/abc_screen_toolbar.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/com_facebook_device_auth_dialog_fragment.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/28999a38b93cf8049b57dc98febd5747/jetified-facebook-common-5.9.0/res/layout/com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/abc_action_mode_bar.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/notification_template_big_media.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/25bc4e9ea7fb8e67650833f849b470ad/media-1.0.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/453e5a1f84d519fe28843d3b3ee67be8/core-1.0.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/abc_select_dialog_material.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/notification_template_lines_media.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/25bc4e9ea7fb8e67650833f849b470ad/media-1.0.0/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/com_facebook_activity_layout.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/28999a38b93cf8049b57dc98febd5747/jetified-facebook-common-5.9.0/res/layout/com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/tw__gallery_activity.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/96d9756e646ddbc7bd1e71f4e9936860/jetified-tweet-ui-3.1.1/res/layout/tw__gallery_activity.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/tw__activity_composer.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/9f5fd01b054f0764306581c091451a0c/jetified-tweet-composer-3.1.1/res/layout/tw__activity_composer.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/abc_cascading_menu_item_layout.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/tw__tweet_compact.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/96d9756e646ddbc7bd1e71f4e9936860/jetified-tweet-ui-3.1.1/res/layout/tw__tweet_compact.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/notification_template_media.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/25bc4e9ea7fb8e67650833f849b470ad/media-1.0.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/453e5a1f84d519fe28843d3b3ee67be8/core-1.0.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/453e5a1f84d519fe28843d3b3ee67be8/core-1.0.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/com_facebook_login_fragment.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/28999a38b93cf8049b57dc98febd5747/jetified-facebook-common-5.9.0/res/layout/com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/453e5a1f84d519fe28843d3b3ee67be8/core-1.0.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/tw__media_badge.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/96d9756e646ddbc7bd1e71f4e9936860/jetified-tweet-ui-3.1.1/res/layout/tw__media_badge.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/tw__action_bar.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/96d9756e646ddbc7bd1e71f4e9936860/jetified-tweet-ui-3.1.1/res/layout/tw__action_bar.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/tw__player_activity.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/96d9756e646ddbc7bd1e71f4e9936860/jetified-tweet-ui-3.1.1/res/layout/tw__player_activity.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/abc_search_view.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/abc_tooltip.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_tooltip.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/25bc4e9ea7fb8e67650833f849b470ad/media-1.0.0/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/453e5a1f84d519fe28843d3b3ee67be8/core-1.0.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/abc_dialog_title_material.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/tw__tweet.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/96d9756e646ddbc7bd1e71f4e9936860/jetified-tweet-ui-3.1.1/res/layout/tw__tweet.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/abc_action_menu_layout.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/abc_screen_simple.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/notification_template_media_custom.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/25bc4e9ea7fb8e67650833f849b470ad/media-1.0.0/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/tw__video_control.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/96d9756e646ddbc7bd1e71f4e9936860/jetified-tweet-ui-3.1.1/res/layout/tw__video_control.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/abc_screen_content_include.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/com_facebook_smart_device_dialog_fragment.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/28999a38b93cf8049b57dc98febd5747/jetified-facebook-common-5.9.0/res/layout/com_facebook_smart_device_dialog_fragment.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/tw__composer_view.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/9f5fd01b054f0764306581c091451a0c/jetified-tweet-composer-3.1.1/res/layout/tw__composer_view.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/notification_media_cancel_action.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/25bc4e9ea7fb8e67650833f849b470ad/media-1.0.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/tw__tweet_quote.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/96d9756e646ddbc7bd1e71f4e9936860/jetified-tweet-ui-3.1.1/res/layout/tw__tweet_quote.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/notification_media_action.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/25bc4e9ea7fb8e67650833f849b470ad/media-1.0.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/notification_template_big_media_custom.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/25bc4e9ea7fb8e67650833f849b470ad/media-1.0.0/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/browser_actions_context_menu_row.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/ada9ce00a2e69b026f606b2fd7970c81/browser-1.0.0/res/layout/browser_actions_context_menu_row.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/browser_actions_context_menu_page.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/ada9ce00a2e69b026f606b2fd7970c81/browser-1.0.0/res/layout/browser_actions_context_menu_page.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/25bc4e9ea7fb8e67650833f849b470ad/media-1.0.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/tw__activity_oauth.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/6e516c699ed3c3cac9ffae997124e4b6/jetified-twitter-core-3.1.1/res/layout/tw__activity_oauth.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    }
+]
