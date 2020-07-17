@@ -15,7 +15,9 @@ Choose where you want to be and when you want to be there. The Smart Queue estim
 Overview of the app and instructions for using it
 
 ## The Design
-The app uses the Flutter framework to run natively on Android and iOS. The app communicates with the Smart Queue, which is implemented as Python code running in Azure. The data pipeline pulls real-time information from the MTA and updates the Azure Database—which feeds the Smart Queue. Each component is designed to scale separately.
+The app uses the Flutter framework to run natively on Android and iOS. The app communicates with the Smart Queue, which is implemented as Python/Django app running in Azure. The data pipeline pulls real-time information from the MTA and updates the Azure PostgreSQL Database—which feeds the Smart Queue. Each component is designed to scale separately using Azure's native cloud services.
+
+![](Documentation/Technical/architecture-diagram.png)
 
 ### The Smart Queue
 Overview of the Smart Queue
