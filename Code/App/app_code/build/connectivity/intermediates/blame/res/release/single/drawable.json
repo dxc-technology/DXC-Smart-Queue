@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/connectivity/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/453e5a1f84d519fe28843d3b3ee67be8/core-1.0.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/connectivity/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/453e5a1f84d519fe28843d3b3ee67be8/core-1.0.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/connectivity/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/453e5a1f84d519fe28843d3b3ee67be8/core-1.0.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/connectivity/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/453e5a1f84d519fe28843d3b3ee67be8/core-1.0.0/res/drawable/notification_bg.xml"
+    }
+]

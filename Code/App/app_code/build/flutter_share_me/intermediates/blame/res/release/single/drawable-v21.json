@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/drawable-v21/tw__like_action.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/96d9756e646ddbc7bd1e71f4e9936860/jetified-tweet-ui-3.1.1/res/drawable-v21/tw__like_action.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/453e5a1f84d519fe28843d3b3ee67be8/core-1.0.0/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

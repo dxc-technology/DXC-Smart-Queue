@@ -1,0 +1,12 @@
+django==3.0.8
+djangorestframework==3.11.0
+requests==2.24.0
+gtfs-realtime-bindings==0.0.6
+gtfs==0.1.2
+sshtunnel==0.1.5
+psycopg2==2.8.5
+sqlparse==0.3.1
+arrow==0.15.7
+apscheduler==3.6.3
+tzlocal==2.1
+pytz==2019.3

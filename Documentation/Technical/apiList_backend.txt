@@ -1,0 +1,187 @@
+"list resources": "http://mtahackathonsmartqueueb.azurewebsites.net/api/resources", (GET) 
+"list queues": "http://mtahackathonsmartqueueb.azurewebsites.net/api/queues", (GET)
+"list locations": "http://mtahackathonsmartqueueb.azurewebsites.net/api/locations", (GET) (DROPDOWN FOR STATIONS)
+SAMPLE RESPONSE:
+[
+    {
+        "id": "3cd0c208-95cf-4e94-9a6e-15385dcac769",
+        "address": "Grand Central",
+        "address_id": 1,
+        "max_capacity": 100,
+        "queues": [
+            {
+                "queue_id": "d5422c3b-2c86-445d-b43d-96ca1b37f429",
+                "start_datetime": "2020-07-15T22:35:00Z",
+                "end_datetime": "2020-07-15T22:45:00Z",
+                "max_capacity": 100,
+                "address_id": 1,
+                "address": "Grand Central",
+                "destination": "POUGHKEEPSIE",
+                "resource_id": 8851
+            }
+        ]
+    },
+    {
+        "id": "bccf3dec-fdba-49e6-aeb5-f070a79c945c",
+        "address": "Harlem-125th St.",
+        "address_id": 4,
+        "max_capacity": 100,
+        "queues": [
+            {
+                "queue_id": "92bcfe39-5ef6-434a-b101-0039b1f33f37",
+                "start_datetime": "2020-07-15T22:46:00Z",
+                "end_datetime": "2020-07-15T22:56:00Z",
+                "max_capacity": 100,
+                "address_id": 4,
+                "address": "Harlem-125th St.",
+                "destination": "POUGHKEEPSIE",
+                "resource_id": 8851
+            }
+        ]
+    },
+...
+]
+
+"list customers": "http://mtahackathonsmartqueueb.azurewebsites.net/api/customers" (GET)
+SAMPLE RESPONSE:
+[
+    {
+        "person_id": "e973d45c-c5c9-11ea-a2ba-0242ac100002",
+        "name": "Jerry Overton",
+        "reward_points": 100
+    },
+    {
+        "person_id": "e973d556-c5c9-11ea-a2ba-0242ac100002",
+        "name": "Abhinav Chaudhary",
+        "reward_points": 100
+    },
+    {
+        "person_id": "e973d61e-c5c9-11ea-a2ba-0242ac100002",
+        "name": "Mabry Fonseca",
+        "reward_points": 100
+    },
+    {
+        "person_id": "e973d6d2-c5c9-11ea-a2ba-0242ac100002",
+        "name": "Abhishek Kumar",
+        "reward_points": 100
+    },
+    {
+        "person_id": "e973d77c-c5c9-11ea-a2ba-0242ac100002",
+        "name": "Hitesh Kumar",
+        "reward_points": 100
+    },
+    {
+        "person_id": "e973d830-c5c9-11ea-a2ba-0242ac100002",
+        "name": "Diwakar Peddinti",
+        "reward_points": 100
+    }
+]
+
+
+"list reservations": "http://mtahackathonsmartqueueb.azurewebsites.net/api/reservations" (POST)
+SAMPLE REQUEST:
+{
+    "person_id":"e973d45c-c5c9-11ea-a2ba-0242ac100002"
+}
+SAMPLE RESPONSE:
+[
+    {
+        "reservation_id": "91bd6a88-c7b9-11ea-b416-9b52f948f9f6",
+        "reservation_state": "ReservationState.RESERVED",
+        "start_time": "2020-07-16T10:50:00-04:00",
+        "end_time": "2020-07-16T11:00:00-04:00",
+        "resource": 6518,
+        "address": "Noroton Heights",
+        "destination": "NEW HAVEN",
+        "reward_points": 1.0,
+        "queue_percentage": 0.05,
+        "train_percentage": 0.0
+    }
+]
+
+
+"miss_reservation": "http://mtahackathonsmartqueueb.azurewebsites.net/api/miss_reservation" (POST)
+SAMPLE REQUEST:
+{
+    "person_id":"e973d45c-c5c9-11ea-a2ba-0242ac100002",
+    "proof_of_purchase":"",
+    "occupants": 5,
+    "queue_id":"1d31243b-0788-4b51-b69b-ee75df77d43b"
+}
+SAMPLE RESPONSE:
+"Missed"
+
+
+"cancel_reservation": "http://mtahackathonsmartqueueb.azurewebsites.net/api/cancel_reservation" (POST)
+SAMPLE REQUEST:
+{
+    "person_id":"e973d45c-c5c9-11ea-a2ba-0242ac100002",
+    "proof_of_purchase":"",
+    "occupants": 5,
+    "queue_id":"1d31243b-0788-4b51-b69b-ee75df77d43b"
+}
+SAMPLE RESPONSE:
+"Cancelled"
+
+
+"complete_reservation": "http://mtahackathonsmartqueueb.azurewebsites.net/api/complete_reservation" (POST)
+SAMPLE REQUEST:
+{
+    "person_id":"e973d45c-c5c9-11ea-a2ba-0242ac100002",
+    "proof_of_purchase":"",
+    "occupants": 5,
+    "queue_id":"1d31243b-0788-4b51-b69b-ee75df77d43b"
+}
+SAMPLE RESPONSE:
+"Completed"
+
+
+"make_reservation": "http://mtahackathonsmartqueueb.azurewebsites.net/api/reserve" (POST)
+SAMPLE REQUEST:
+{
+    "person_id":"e973d45c-c5c9-11ea-a2ba-0242ac100002",
+    "proof_of_purchase":"",
+    "occupants": 5,
+    "queue_id":"1d31243b-0788-4b51-b69b-ee75df77d43b"
+}
+SAMPLE RESPONSE:
+1.0
+
+
+"location search": "http://mtahackathonsmartqueueb.azurewebsites.net/api/search" (POST)
+SAMPLE REQUEST:
+{
+    "resource_id":1,
+    "address":"Noroton Heights",
+    "destination":"New Haven",
+    "address_id":127,
+    "datetime":"2020/07/16 1456",
+    "sort_bestqueue":false
+}
+SAMPLE RESPONSE:
+[
+    {
+        "queue_id": "1cf93181-7815-4d05-a9e2-1bcc2457c5d7",
+        "start_time": "2020-07-16T10:50:00-04:00",
+        "end_time": "2020-07-16T11:00:00-04:00",
+        "resource_id": 6518,
+        "address": "Noroton Heights",
+        "destination": "NEW HAVEN",
+        "reward": 1.0,
+        "queue_percentage": 0.0,
+        "train_percentage": 0.0,
+        "max_capacity": 100
+    },
+    {
+        "queue_id": "1d31243b-0788-4b51-b69b-ee75df77d43b",
+        "start_time": "2020-07-16T10:50:00-04:00",
+        "end_time": "2020-07-16T11:00:00-04:00",
+        "resource_id": 6518,
+        "address": "Noroton Heights",
+        "destination": "NEW HAVEN",
+        "reward": 1.0,
+        "queue_percentage": 0.0,
+        "train_percentage": 0.0,
+        "max_capacity": 100
+    }
+]

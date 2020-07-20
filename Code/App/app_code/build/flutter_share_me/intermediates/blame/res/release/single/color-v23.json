@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/diwakar/.gradle/caches/transforms-2/files-2.1/768aa58fdf029e16fb85f621af2f2d32/appcompat-1.0.0/res/color-v23/abc_tint_edittext.xml"
+    }
+]

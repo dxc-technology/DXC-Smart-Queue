@@ -1,0 +1,238 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.dxc.mtahackathon"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+9        android:targetSdkVersion="29" />
+10    <!--
+11         Flutter needs it to communicate with the running application
+12         to allow setting breakpoints, to provide hot reload, etc.
+13    -->
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->/Users/diwakar/MTA_hack/mta_hackathon/android/app/src/main/AndroidManifest.xml:9:5-66
+14-->/Users/diwakar/MTA_hack/mta_hackathon/android/app/src/main/AndroidManifest.xml:9:22-64
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->[:connectivity] /Users/diwakar/MTA_hack/mta_hackathon/build/connectivity/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-79
+15-->[:connectivity] /Users/diwakar/MTA_hack/mta_hackathon/build/connectivity/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-76
+16    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+16-->[:connectivity] /Users/diwakar/MTA_hack/mta_hackathon/build/connectivity/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-76
+16-->[:connectivity] /Users/diwakar/MTA_hack/mta_hackathon/build/connectivity/intermediates/library_manifest/debug/AndroidManifest.xml:8:22-73
+17
+18    <application
+18-->/Users/diwakar/MTA_hack/mta_hackathon/android/app/src/main/AndroidManifest.xml:11:5-53:19
+19        android:name="io.flutter.app.FlutterApplication"
+19-->/Users/diwakar/MTA_hack/mta_hackathon/android/app/src/main/AndroidManifest.xml:12:9-57
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.0.0] /Users/diwakar/.gradle/caches/transforms-2/files-2.1/453e5a1f84d519fe28843d3b3ee67be8/core-1.0.0/AndroidManifest.xml:22:18-86
+21        android:debuggable="true"
+22        android:icon="@mipmap/ic_launcher"
+22-->/Users/diwakar/MTA_hack/mta_hackathon/android/app/src/main/AndroidManifest.xml:14:9-43
+23        android:label="mta smartq"
+23-->/Users/diwakar/MTA_hack/mta_hackathon/android/app/src/main/AndroidManifest.xml:13:9-35
+24        android:supportsRtl="true" >
+24-->[com.facebook.android:facebook-share:5.9.0] /Users/diwakar/.gradle/caches/transforms-2/files-2.1/7f1521ae9cce7b49cd26a7be468eb2b3/jetified-facebook-share-5.9.0/AndroidManifest.xml:28:18-44
+25
+26        <!-- uncomment this if using Google Ads and update with your AdMob APPID -->
+27        <meta-data
+27-->/Users/diwakar/MTA_hack/mta_hackathon/android/app/src/main/AndroidManifest.xml:17:9-18:48
+28            android:name="com.google.android.gms.ads.APPLICATION_ID"
+28-->/Users/diwakar/MTA_hack/mta_hackathon/android/app/src/main/AndroidManifest.xml:17:20-76
+29            android:value="Your_Admob_App_ID" />
+29-->/Users/diwakar/MTA_hack/mta_hackathon/android/app/src/main/AndroidManifest.xml:18:13-46
+30
+31        <!-- ************************************ -->
+32        <!-- FCM Notifications SETTINGS -->
+33        <!-- ************************************ -->
+34        <!-- [START fcm_default_icon] -->
+35        <!--
+36             Set custom default icon. This is used when no icon is set for incoming notification messages.
+37             See README(https://goo.gl/l4GJaQ) for more.
+38        -->
+39        <!--
+40             <meta-data
+41            android:name="com.google.firebase.messaging.default_notification_icon"
+42            android:resource="@drawable/ic_stat_football_foot" />
+43        -->
+44        <!--
+45             Set color used with incoming notification messages. This is used when no color is set for the incoming
+46             notification message. See README(https://goo.gl/6BKBk7) for more.
+47        -->
+48        <!--
+49             <meta-data
+50            android:name="com.google.firebase.messaging.default_notification_color"
+51            android:resource="@color/colorAccent" />
+52        -->
+53        <!-- [END fcm_default_icon] -->
+54
+55        <activity
+55-->/Users/diwakar/MTA_hack/mta_hackathon/android/app/src/main/AndroidManifest.xml:36:9-47:20
+56            android:name="com.dxc.mtahackathon.MainActivity"
+56-->/Users/diwakar/MTA_hack/mta_hackathon/android/app/src/main/AndroidManifest.xml:37:13-41
+57            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+57-->/Users/diwakar/MTA_hack/mta_hackathon/android/app/src/main/AndroidManifest.xml:40:13-163
+58            android:hardwareAccelerated="true"
+58-->/Users/diwakar/MTA_hack/mta_hackathon/android/app/src/main/AndroidManifest.xml:41:13-47
+59            android:launchMode="singleTop"
+59-->/Users/diwakar/MTA_hack/mta_hackathon/android/app/src/main/AndroidManifest.xml:38:13-43
+60            android:theme="@style/LaunchTheme"
+60-->/Users/diwakar/MTA_hack/mta_hackathon/android/app/src/main/AndroidManifest.xml:39:13-47
+61            android:windowSoftInputMode="adjustResize" >
+61-->/Users/diwakar/MTA_hack/mta_hackathon/android/app/src/main/AndroidManifest.xml:42:13-55
+62            <intent-filter>
+62-->/Users/diwakar/MTA_hack/mta_hackathon/android/app/src/main/AndroidManifest.xml:43:13-46:29
+63                <action android:name="android.intent.action.MAIN" />
+63-->/Users/diwakar/MTA_hack/mta_hackathon/android/app/src/main/AndroidManifest.xml:44:17-68
+63-->/Users/diwakar/MTA_hack/mta_hackathon/android/app/src/main/AndroidManifest.xml:44:25-66
+64
+65                <category android:name="android.intent.category.LAUNCHER" />
+65-->/Users/diwakar/MTA_hack/mta_hackathon/android/app/src/main/AndroidManifest.xml:45:17-76
+65-->/Users/diwakar/MTA_hack/mta_hackathon/android/app/src/main/AndroidManifest.xml:45:27-74
+66            </intent-filter>
+67        </activity>
+68        <!--
+69             Don't delete the meta-data below.
+70             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+71        -->
+72        <meta-data
+72-->/Users/diwakar/MTA_hack/mta_hackathon/android/app/src/main/AndroidManifest.xml:50:9-52:33
+73            android:name="flutterEmbedding"
+73-->/Users/diwakar/MTA_hack/mta_hackathon/android/app/src/main/AndroidManifest.xml:51:13-44
+74            android:value="2" />
+74-->/Users/diwakar/MTA_hack/mta_hackathon/android/app/src/main/AndroidManifest.xml:52:13-30
+75
+76        <activity
+76-->[:url_launcher] /Users/diwakar/MTA_hack/mta_hackathon/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-11:74
+77            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
+77-->[:url_launcher] /Users/diwakar/MTA_hack/mta_hackathon/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-74
+78            android:exported="false"
+78-->[:url_launcher] /Users/diwakar/MTA_hack/mta_hackathon/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-37
+79            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+79-->[:url_launcher] /Users/diwakar/MTA_hack/mta_hackathon/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-71
+80
+81        <provider
+81-->[:flutter_share_me] /Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/library_manifest/debug/AndroidManifest.xml:10:9-18:20
+82            android:name="zhuoyuan.li.fluttershareme.util.ShareFileProvider"
+82-->[:flutter_share_me] /Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-77
+83            android:authorities="com.dxc.mtahackathon.provider"
+83-->[:flutter_share_me] /Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-60
+84            android:exported="false"
+84-->[:flutter_share_me] /Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-37
+85            android:grantUriPermissions="true" >
+85-->[:flutter_share_me] /Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-47
+86            <meta-data
+86-->[:flutter_share_me] /Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-17:54
+87                android:name="android.support.FILE_PROVIDER_PATHS"
+87-->[:flutter_share_me] /Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/library_manifest/debug/AndroidManifest.xml:16:17-67
+88                android:resource="@xml/file_paths" />
+88-->[:flutter_share_me] /Users/diwakar/MTA_hack/mta_hackathon/build/flutter_share_me/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-51
+89        </provider>
+90
+91        <activity
+91-->[com.facebook.android:facebook-common:5.9.0] /Users/diwakar/.gradle/caches/transforms-2/files-2.1/28999a38b93cf8049b57dc98febd5747/jetified-facebook-common-5.9.0/AndroidManifest.xml:29:9-32:66
+92            android:name="com.facebook.FacebookActivity"
+92-->[com.facebook.android:facebook-common:5.9.0] /Users/diwakar/.gradle/caches/transforms-2/files-2.1/28999a38b93cf8049b57dc98febd5747/jetified-facebook-common-5.9.0/AndroidManifest.xml:30:13-57
+93            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+93-->[com.facebook.android:facebook-common:5.9.0] /Users/diwakar/.gradle/caches/transforms-2/files-2.1/28999a38b93cf8049b57dc98febd5747/jetified-facebook-common-5.9.0/AndroidManifest.xml:31:13-96
+94            android:theme="@style/com_facebook_activity_theme" />
+94-->[com.facebook.android:facebook-common:5.9.0] /Users/diwakar/.gradle/caches/transforms-2/files-2.1/28999a38b93cf8049b57dc98febd5747/jetified-facebook-common-5.9.0/AndroidManifest.xml:32:13-63
+95        <activity android:name="com.facebook.CustomTabMainActivity" />
+95-->[com.facebook.android:facebook-common:5.9.0] /Users/diwakar/.gradle/caches/transforms-2/files-2.1/28999a38b93cf8049b57dc98febd5747/jetified-facebook-common-5.9.0/AndroidManifest.xml:33:9-71
+95-->[com.facebook.android:facebook-common:5.9.0] /Users/diwakar/.gradle/caches/transforms-2/files-2.1/28999a38b93cf8049b57dc98febd5747/jetified-facebook-common-5.9.0/AndroidManifest.xml:33:19-68
+96        <activity android:name="com.facebook.CustomTabActivity" />
+96-->[com.facebook.android:facebook-common:5.9.0] /Users/diwakar/.gradle/caches/transforms-2/files-2.1/28999a38b93cf8049b57dc98febd5747/jetified-facebook-common-5.9.0/AndroidManifest.xml:34:9-67
+96-->[com.facebook.android:facebook-common:5.9.0] /Users/diwakar/.gradle/caches/transforms-2/files-2.1/28999a38b93cf8049b57dc98febd5747/jetified-facebook-common-5.9.0/AndroidManifest.xml:34:19-64
+97        <activity
+97-->[com.twitter.sdk.android:tweet-ui:3.1.1] /Users/diwakar/.gradle/caches/transforms-2/files-2.1/96d9756e646ddbc7bd1e71f4e9936860/jetified-tweet-ui-3.1.1/AndroidManifest.xml:28:9-31:49
+98            android:name="com.twitter.sdk.android.tweetui.PlayerActivity"
+98-->[com.twitter.sdk.android:tweet-ui:3.1.1] /Users/diwakar/.gradle/caches/transforms-2/files-2.1/96d9756e646ddbc7bd1e71f4e9936860/jetified-tweet-ui-3.1.1/AndroidManifest.xml:29:13-74
+99            android:configChanges="keyboardHidden|orientation|screenSize"
+99-->[com.twitter.sdk.android:tweet-ui:3.1.1] /Users/diwakar/.gradle/caches/transforms-2/files-2.1/96d9756e646ddbc7bd1e71f4e9936860/jetified-tweet-ui-3.1.1/AndroidManifest.xml:30:13-74
+100            android:theme="@style/MediaTheme" />
+100-->[com.twitter.sdk.android:tweet-ui:3.1.1] /Users/diwakar/.gradle/caches/transforms-2/files-2.1/96d9756e646ddbc7bd1e71f4e9936860/jetified-tweet-ui-3.1.1/AndroidManifest.xml:31:13-46
+101        <activity
+101-->[com.twitter.sdk.android:tweet-ui:3.1.1] /Users/diwakar/.gradle/caches/transforms-2/files-2.1/96d9756e646ddbc7bd1e71f4e9936860/jetified-tweet-ui-3.1.1/AndroidManifest.xml:32:9-34:49
+102            android:name="com.twitter.sdk.android.tweetui.GalleryActivity"
+102-->[com.twitter.sdk.android:tweet-ui:3.1.1] /Users/diwakar/.gradle/caches/transforms-2/files-2.1/96d9756e646ddbc7bd1e71f4e9936860/jetified-tweet-ui-3.1.1/AndroidManifest.xml:33:13-75
+103            android:theme="@style/MediaTheme" />
+103-->[com.twitter.sdk.android:tweet-ui:3.1.1] /Users/diwakar/.gradle/caches/transforms-2/files-2.1/96d9756e646ddbc7bd1e71f4e9936860/jetified-tweet-ui-3.1.1/AndroidManifest.xml:34:13-46
+104        <!--
+105         The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
+106         with the application context. This config is merged in with the host app's manifest,
+107         but there can only be one provider with the same authority activated at any given
+108         point; so if the end user has two or more different apps that use Facebook SDK, only the
+109         first one will be able to use the provider. To work around this problem, we use the
+110         following placeholder in the authority to identify each host application as if it was
+111         a completely different provider.
+112        -->
+113        <provider
+113-->[com.facebook.android:facebook-core:5.9.0] /Users/diwakar/.gradle/caches/transforms-2/files-2.1/a445a15aa6f66a0aa00e29693d214e50/jetified-facebook-core-5.9.0/AndroidManifest.xml:39:9-42:40
+114            android:name="com.facebook.internal.FacebookInitProvider"
+114-->[com.facebook.android:facebook-core:5.9.0] /Users/diwakar/.gradle/caches/transforms-2/files-2.1/a445a15aa6f66a0aa00e29693d214e50/jetified-facebook-core-5.9.0/AndroidManifest.xml:40:13-70
+115            android:authorities="com.dxc.mtahackathon.FacebookInitProvider"
+115-->[com.facebook.android:facebook-core:5.9.0] /Users/diwakar/.gradle/caches/transforms-2/files-2.1/a445a15aa6f66a0aa00e29693d214e50/jetified-facebook-core-5.9.0/AndroidManifest.xml:41:13-72
+116            android:exported="false" />
+116-->[com.facebook.android:facebook-core:5.9.0] /Users/diwakar/.gradle/caches/transforms-2/files-2.1/a445a15aa6f66a0aa00e29693d214e50/jetified-facebook-core-5.9.0/AndroidManifest.xml:42:13-37
+117
+118        <receiver
+118-->[com.facebook.android:facebook-core:5.9.0] /Users/diwakar/.gradle/caches/transforms-2/files-2.1/a445a15aa6f66a0aa00e29693d214e50/jetified-facebook-core-5.9.0/AndroidManifest.xml:44:9-50:20
+119            android:name="com.facebook.CurrentAccessTokenExpirationBroadcastReceiver"
+119-->[com.facebook.android:facebook-core:5.9.0] /Users/diwakar/.gradle/caches/transforms-2/files-2.1/a445a15aa6f66a0aa00e29693d214e50/jetified-facebook-core-5.9.0/AndroidManifest.xml:45:13-86
+120            android:exported="false" >
+120-->[com.facebook.android:facebook-core:5.9.0] /Users/diwakar/.gradle/caches/transforms-2/files-2.1/a445a15aa6f66a0aa00e29693d214e50/jetified-facebook-core-5.9.0/AndroidManifest.xml:46:13-37
+121            <intent-filter>
+121-->[com.facebook.android:facebook-core:5.9.0] /Users/diwakar/.gradle/caches/transforms-2/files-2.1/a445a15aa6f66a0aa00e29693d214e50/jetified-facebook-core-5.9.0/AndroidManifest.xml:47:13-49:29
+122                <action android:name="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED" />
+122-->[com.facebook.android:facebook-core:5.9.0] /Users/diwakar/.gradle/caches/transforms-2/files-2.1/a445a15aa6f66a0aa00e29693d214e50/jetified-facebook-core-5.9.0/AndroidManifest.xml:48:17-95
+122-->[com.facebook.android:facebook-core:5.9.0] /Users/diwakar/.gradle/caches/transforms-2/files-2.1/a445a15aa6f66a0aa00e29693d214e50/jetified-facebook-core-5.9.0/AndroidManifest.xml:48:25-92
+123            </intent-filter>
+124        </receiver>
+125        <receiver
+125-->[com.facebook.android:facebook-core:5.9.0] /Users/diwakar/.gradle/caches/transforms-2/files-2.1/a445a15aa6f66a0aa00e29693d214e50/jetified-facebook-core-5.9.0/AndroidManifest.xml:51:9-58:20
+126            android:name="com.facebook.CampaignTrackingReceiver"
+126-->[com.facebook.android:facebook-core:5.9.0] /Users/diwakar/.gradle/caches/transforms-2/files-2.1/a445a15aa6f66a0aa00e29693d214e50/jetified-facebook-core-5.9.0/AndroidManifest.xml:52:13-65
+127            android:exported="true"
+127-->[com.facebook.android:facebook-core:5.9.0] /Users/diwakar/.gradle/caches/transforms-2/files-2.1/a445a15aa6f66a0aa00e29693d214e50/jetified-facebook-core-5.9.0/AndroidManifest.xml:53:13-36
+128            android:permission="android.permission.INSTALL_PACKAGES" >
+128-->[com.facebook.android:facebook-core:5.9.0] /Users/diwakar/.gradle/caches/transforms-2/files-2.1/a445a15aa6f66a0aa00e29693d214e50/jetified-facebook-core-5.9.0/AndroidManifest.xml:54:13-69
+129            <intent-filter>
+129-->[com.facebook.android:facebook-core:5.9.0] /Users/diwakar/.gradle/caches/transforms-2/files-2.1/a445a15aa6f66a0aa00e29693d214e50/jetified-facebook-core-5.9.0/AndroidManifest.xml:55:13-57:29
+130                <action android:name="com.android.vending.INSTALL_REFERRER" />
+130-->[com.facebook.android:facebook-core:5.9.0] /Users/diwakar/.gradle/caches/transforms-2/files-2.1/a445a15aa6f66a0aa00e29693d214e50/jetified-facebook-core-5.9.0/AndroidManifest.xml:56:17-79
+130-->[com.facebook.android:facebook-core:5.9.0] /Users/diwakar/.gradle/caches/transforms-2/files-2.1/a445a15aa6f66a0aa00e29693d214e50/jetified-facebook-core-5.9.0/AndroidManifest.xml:56:25-76
+131            </intent-filter>
+132        </receiver>
+133
+134        <activity
+134-->[com.twitter.sdk.android:tweet-composer:3.1.1] /Users/diwakar/.gradle/caches/transforms-2/files-2.1/9f5fd01b054f0764306581c091451a0c/jetified-tweet-composer-3.1.1/AndroidManifest.xml:28:9-31:71
+135            android:name="com.twitter.sdk.android.tweetcomposer.ComposerActivity"
+135-->[com.twitter.sdk.android:tweet-composer:3.1.1] /Users/diwakar/.gradle/caches/transforms-2/files-2.1/9f5fd01b054f0764306581c091451a0c/jetified-tweet-composer-3.1.1/AndroidManifest.xml:29:13-82
+136            android:exported="false"
+136-->[com.twitter.sdk.android:tweet-composer:3.1.1] /Users/diwakar/.gradle/caches/transforms-2/files-2.1/9f5fd01b054f0764306581c091451a0c/jetified-tweet-composer-3.1.1/AndroidManifest.xml:30:13-37
+137            android:windowSoftInputMode="adjustResize|stateVisible" />
+137-->[com.twitter.sdk.android:tweet-composer:3.1.1] /Users/diwakar/.gradle/caches/transforms-2/files-2.1/9f5fd01b054f0764306581c091451a0c/jetified-tweet-composer-3.1.1/AndroidManifest.xml:31:13-68
+138
+139        <service
+139-->[com.twitter.sdk.android:tweet-composer:3.1.1] /Users/diwakar/.gradle/caches/transforms-2/files-2.1/9f5fd01b054f0764306581c091451a0c/jetified-tweet-composer-3.1.1/AndroidManifest.xml:33:9-36:40
+140            android:name="com.twitter.sdk.android.tweetcomposer.TweetUploadService"
+140-->[com.twitter.sdk.android:tweet-composer:3.1.1] /Users/diwakar/.gradle/caches/transforms-2/files-2.1/9f5fd01b054f0764306581c091451a0c/jetified-tweet-composer-3.1.1/AndroidManifest.xml:34:13-84
+141            android:enabled="true"
+141-->[com.twitter.sdk.android:tweet-composer:3.1.1] /Users/diwakar/.gradle/caches/transforms-2/files-2.1/9f5fd01b054f0764306581c091451a0c/jetified-tweet-composer-3.1.1/AndroidManifest.xml:35:13-35
+142            android:exported="false" />
+142-->[com.twitter.sdk.android:tweet-composer:3.1.1] /Users/diwakar/.gradle/caches/transforms-2/files-2.1/9f5fd01b054f0764306581c091451a0c/jetified-tweet-composer-3.1.1/AndroidManifest.xml:36:13-37
+143
+144        <activity
+144-->[com.twitter.sdk.android:twitter-core:3.1.1] /Users/diwakar/.gradle/caches/transforms-2/files-2.1/6e516c699ed3c3cac9ffae997124e4b6/jetified-twitter-core-3.1.1/AndroidManifest.xml:28:9-32:40
+145            android:name="com.twitter.sdk.android.core.identity.OAuthActivity"
+145-->[com.twitter.sdk.android:twitter-core:3.1.1] /Users/diwakar/.gradle/caches/transforms-2/files-2.1/6e516c699ed3c3cac9ffae997124e4b6/jetified-twitter-core-3.1.1/AndroidManifest.xml:29:13-79
+146            android:configChanges="orientation|screenSize"
+146-->[com.twitter.sdk.android:twitter-core:3.1.1] /Users/diwakar/.gradle/caches/transforms-2/files-2.1/6e516c699ed3c3cac9ffae997124e4b6/jetified-twitter-core-3.1.1/AndroidManifest.xml:30:13-59
+147            android:excludeFromRecents="true"
+147-->[com.twitter.sdk.android:twitter-core:3.1.1] /Users/diwakar/.gradle/caches/transforms-2/files-2.1/6e516c699ed3c3cac9ffae997124e4b6/jetified-twitter-core-3.1.1/AndroidManifest.xml:31:13-46
+148            android:exported="false" />
+148-->[com.twitter.sdk.android:twitter-core:3.1.1] /Users/diwakar/.gradle/caches/transforms-2/files-2.1/6e516c699ed3c3cac9ffae997124e4b6/jetified-twitter-core-3.1.1/AndroidManifest.xml:32:13-37
+149    </application>
+150
+151</manifest>
